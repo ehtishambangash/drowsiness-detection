@@ -18,5 +18,5 @@ The **Drowsiness Detection System** is an AI-powered application designed to det
 
 ## Contact
 **Author**: Ehtisham Bangash  
-For inquiries, contact me at [your email] or [GitHub profile].
+For inquiries, contact me at ehtishambangash111@gmail.com or https://github.com/ehtishambangash
 
