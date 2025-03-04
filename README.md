@@ -16,7 +16,13 @@ The **Drowsiness Detection System** is an AI-powered application designed to det
 3. **Drowsiness Detection** – If the eyes remain closed beyond a threshold, an alert is triggered.  
 4. **Alarm System** – An audible and visual warning is given to wake up the driver.  
 
+## Model File
+This project requires the **shape_predictor_68_face_landmarks.dat** file for facial landmark detection. You can download it from the following link:
+[Download shape_predictor_68_face_landmarks.dat](https://github.com/italojs/facial-landmarks-recognition/blob/master/shape_predictor_68_face_landmarks.dat)
+
+After downloading, place it in the project directory before running the application.
+
 ## Contact
 **Author**: Ehtisham Bangash  
-For inquiries, contact me at ehtishambangash111@gmail.com or https://github.com/ehtishambangash
+For inquiries, contact me at ehtishambangash111@gmail.com or [GitHub](https://github.com/ehtishambangash)
 
